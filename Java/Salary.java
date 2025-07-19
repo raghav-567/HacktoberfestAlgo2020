@@ -23,6 +23,7 @@ System.out.println("Regional Manager");}
 
 else{
     System.out.println("Invalid!");
+    cin.close();
 }
 }
 }
